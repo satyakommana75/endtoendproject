@@ -1,3 +1,4 @@
 ## this is satya
 ## sync-pull  and  push 
 ## this is commit
+## this is satya 
