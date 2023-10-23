@@ -14,3 +14,5 @@ update 12thfile
 i am in bangalore
 neeraja
 kota
+a=10
+b=20
