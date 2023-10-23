@@ -1,1 +1,2 @@
 ## this is satya
+## sync-pull  and  push 
