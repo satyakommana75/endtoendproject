@@ -2,3 +2,4 @@
 ## sync-pull  and  push 
 ## this is commit
 ## this is satya 
+## Git clone https://github.com/sunnysavita10/fsdsmendtoend.git 
